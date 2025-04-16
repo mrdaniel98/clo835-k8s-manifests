@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+data:
+  BACKGROUND_IMAGE_KEY: background2.jpg
+  S3_BUCKET_NAME: final-clo835
+  GROUP_NAME: "Group 7"
+  GROUP_SLOGAN: "We Build the Cloud"
+  FLASK_RUN_PORT: "81"
