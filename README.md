@@ -35,7 +35,7 @@ This project shows how to deploy a simple Flask app and a MySQL database using K
 
 ```bash
 # 1. Clone this project
-git clone https://github.com/mrdaniel98/clo835-k8s-manifests.git
+https://github.com/mrdaniel98/kubernetes-flask-mysql-deployment.git
 cd clo835-k8s-manifests
 
 # 2. Apply all files to Kubernetes
